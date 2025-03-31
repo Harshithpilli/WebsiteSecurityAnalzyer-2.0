@@ -11,3 +11,7 @@ Run the tool
 Using the command 
 
 python security_analzyer_3.py
+
+
+For more about usage of tool 
+Please look into the video 
