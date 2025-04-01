@@ -46,11 +46,6 @@ os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
 ```
 ## How To Use
 
-**Command-Line (Batch Mode)**
-You can analyze one or more URLs by passing them as arguments:
-```bash
-python analyzer.py --url https://example.com http://testsite.com
-```
 **Interactive Mode**
 Just run the tool without any arguments, and you'll enter an easy-to-use interactive menu:
 ```bash
