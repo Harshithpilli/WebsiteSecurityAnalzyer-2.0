@@ -54,7 +54,7 @@ python analyzer.py --url https://example.com http://testsite.com
 **Interactive Mode**
 Just run the tool without any arguments, and you'll enter an easy-to-use interactive menu:
 ```bash
-python analyzer.py
+python security_analzyer_3.py
 ```
 You can choose to:
 
