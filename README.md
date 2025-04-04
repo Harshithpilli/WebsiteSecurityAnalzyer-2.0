@@ -31,7 +31,7 @@ Welcome to the Advanced Website Security Analyzer! This is a friendly, Python-ba
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/WebsiteSecurityAnalzyer-2.0.git
+   git clone https://github.com/Harshithpilli/WebsiteSecurityAnalzyer-2.0.git
    cd WebsiteSecurityAnalzyer-2.0
    
 2. **Install the Required Libraries:**
