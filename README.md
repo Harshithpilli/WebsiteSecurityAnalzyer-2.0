@@ -31,16 +31,18 @@ Welcome to the Advanced Website Security Analyzer! This is a friendly, Python-ba
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/website-security-analyzer.git
+   git clone https://github.com/yourusername/WebsiteSecurityAnalzyer-2.0.git
    cd website-security-analyzer`
    
 2. **Install the Required Libraries:**
    ```bash
-   pip install -r requirements.txt`
+   pip install tensorflow requests python-whois tldextract numpy pandas matplotlib beautifulsoup4 rich
+
 You'll need packages like TensorFlow, Requests, WHOIS, tldextract, NumPy, Pandas, Matplotlib, BeautifulSoup4, and Rich.
 
 3.**Optional Configuration:**
 The tool disables oneDNN optimizations for TensorFlow by setting:
+
 ```bash
 os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
 ```
